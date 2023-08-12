@@ -1,7 +1,20 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my page!
-I'm Beau, Co-Founder and Project manager from  Phang-nga, Thailand 🇹🇭, currently living in  Bangkok, Thailand 🇹🇭.
+I'm Beau, Co-Founder and Project manager 
+From  Phang-nga, Thailand 🇹🇭. Currently living in  Bangkok, Thailand 🇹🇭.
+
+💕 My Lifestyles
+☮✝ I'm traveller ☪⚛ 🇩🇪🇦🇹🇨🇭🇹🇼🇯🇵🇸🇬🇭🇰
+
+What's attention me? 
+- Music 🎶
+- Food 🍜
+- Travel 🌎
+- Life 👣
+- Shoes 👟
+- DJing 📀
+- Surfing 🏄
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=beaubaby&color=00cf00)
 
