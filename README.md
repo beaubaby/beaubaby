@@ -1,12 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my page!
-
 ![visitors](https://vbr.wocr.tk/badge?page_id=beaubaby&color=00cf00)
 
-I'm Beau, Co-Founder and Project manager 
+🙏 Welcome to my page!
 
-From  Phang-nga, Thailand 🇹🇭. Currently living in  Bangkok, Thailand 🇹🇭.
+I'm Beau from  Phang-nga, Thailand 🇹🇭. Currently living in  Bangkok, Thailand 🇹🇭.
 
 💕 My Lifestyles
 
@@ -45,10 +43,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
   
 ```
-Amazon AWS Certified Solutions Architect - Associate SAA-C02
-How to be a good manager
-Psychology
-Satir Model 
+- Amazon AWS Certified Solutions Architect - Associate SAA-C02
+- How to be a good manager
+- Psychology
+- Satir Model 
 ```
 
 - ⚡ Fun fact: I want to be "Ped (duck)" 🦆 that is strongest in the world and full energy all the time. Call me "Ped Cross functional"
