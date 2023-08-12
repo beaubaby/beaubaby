@@ -9,6 +9,7 @@ I'm Beau, Co-Founder and Project manager
 From  Phang-nga, Thailand 🇹🇭. Currently living in  Bangkok, Thailand 🇹🇭.
 
 💕 My Lifestyles
+
 ☮✝ I'm traveller ☪⚛ 🇩🇪🇦🇹🇨🇭🇹🇼🇯🇵🇸🇬🇭🇰
 
 What's attention me? 
