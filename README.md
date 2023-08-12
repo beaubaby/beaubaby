@@ -42,14 +42,16 @@ Here are some ideas to get you started:
 - 👯 I'm seeking collaborations within communities in Thailand and globally to expand our tech community worldwide.
 - 🎓 My graduation at [KMUTT](https://www.kmutt.ac.th/) in Electronics & Telecommunication Engineering, class 𝚘𝚏 2007
 - 🖥 Working in Technical Delivery Lead Associate Manager
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning
+  
+```
+Amazon AWS Certified Solutions Architect - Associate SAA-C02
+How to be a good manager
+Psychology
+Satir Model 
+```
 
-....
-
-- ⚡ Fun fact: 
-
-....
-
+- ⚡ Fun fact: I want to be "Ped (duck)" 🦆 that is strongest in the world and full energy all the time. Call me "Ped Cross functional"
 - 🌐 You can access all my portfolios and open-source projects on Github and the [PS Website](https://ps9799.wordpress.com/)
 
 <p align="center">
@@ -62,25 +64,20 @@ Here are some ideas to get you started:
 - This's our 1st Cloud Native Bootcamp in Thailand [The Cloud Camp by Jumpbox Academy](https://jumpbox.academy/)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-... write commu passion
-... lifestyles
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-	- 𝙰𝚍𝚍 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚝𝚘 𝙳𝚎𝚋𝚒𝚊𝚗, 𝚄𝚋𝚞𝚗𝚝𝚞, 𝚊𝚗𝚍 𝚁𝚎𝚍 𝙷𝚊𝚝/𝙵𝚎𝚍𝚘𝚛𝚊
-	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
+- 🔨 I will initiate the community foundation and drive its expansion into a global community.
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 ...
+	- Go aboard for working and studying
+ 	- Scuba diving!
+	- To be professional in business and leadership skills
+	- Build high performance team 
+	- Rich & Wealth
+ 	- Travel and remote work around the world
+  	- Have some cafe, restaurant and bar with my partner
+  	- To be the person who has a great happiness
 
 ### 📖 Latest Blog
-- Medium
-<!-- BLOG:START -->
-
-<!-- BLOG:END -->
-- Dev.to
-<!-- BLOG:START -->
-
-<!-- BLOG:END -->
+- Medium: https://darkbabybeau.medium.com/
+- Dev.to: https://dev.to/beaubaby
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me via this socials media link as below.
