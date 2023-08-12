@@ -1,5 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+Welcome to my page!
+I'm Beau, Co-Founder and Project manager from  Phang-nga, Thailand 🇹🇭, currently living in  Bangkok, Thailand 🇹🇭.
+
 ![visitors](https://vbr.wocr.tk/badge?page_id=beaubaby&color=00cf00)
 
 #### My Experienced Technology Stack
@@ -16,7 +19,7 @@
 ## 🧑‍💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 Here are some ideas to get you started:
 
-😄 I'm "Beau", you call me in Thai "บิว".
+😄 I'm "Beau" Phisinee Sagulvanitchaporn, you call me in Thai "บิว".
 - 💬 I am passionate about building a tech community in Thailand 🇹🇭 and driving its global growth. 🌍
 - 👯 I'm seeking collaborations within communities in Thailand and globally to expand our tech community worldwide.
 - 🎓 My graduation at [KMUTT](https://www.kmutt.ac.th/) in Electronics & Telecommunication Engineering, class 𝚘𝚏 2007
