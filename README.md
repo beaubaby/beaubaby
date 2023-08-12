@@ -2,10 +2,7 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=beaubaby&color=00cf00)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Beaubaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaubaby&show_icons=true&theme=radical)
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 🧑‍💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 Here are some ideas to get you started:
 
 😄 I'm "Beau", you call me in Thai "บิว".
@@ -34,11 +31,25 @@ Here are some ideas to get you started:
 	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 
+### 📖 Latest Blog
+
+<!-- BLOG:START -->
+- [แชร์วิธีการเทส deeplink สำหรับ Android Developer](https://www.mikkipastel.com/how-to-test-deeplink-for-android-developer/)
+- [ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch](https://www.mikkipastel.com/create-new-pwa-project-by-glitch/)
+- [ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ](https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/)
+- [มาเรียนรู้ &quot;Content 3.0 การใช้ Ai เขียนคอนเทนต์แบบมือโปร&quot; กันจ้า](https://www.mikkipastel.com/content-3-0-ai-for-content-creator/)
+- [ทำความรู้จัก Progressive Web Apps](https://www.mikkipastel.com/what-is-progressive-web-apps/)
+<!-- BLOG:END -->
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 
+𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 [<img src="https://raw.githubusercontent.com/beaubaby/beaubaby/master/socials/linkedin.png" height="40em" align="center" alt="Follow beaubaby on LinkedIn" title="Follow beaubaby on LinkedIn"/>]([https://linkedin.com/in/phisinee-sagulvanitchaporn](https://www.linkedin.com/in/phisinee-sagulvanitchaporn))
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Beaubaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaubaby&show_icons=true&theme=radical)
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - Profile Visit Count from [https://github.com/Raymo111/Raymo111/blob/master/README.md](https://github.com/Raymo111/Raymo111/blob/master/README.md)
