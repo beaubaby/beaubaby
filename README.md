@@ -20,21 +20,25 @@ Here are some ideas to get you started:
 - 💬 I am passionate about building a tech community in Thailand 🇹🇭 and driving its global growth. 🌍
 - 👯 I'm seeking collaborations within communities in Thailand and globally to expand our tech community worldwide.
 - 🖥 Working in Technical Delivery Lead Associate Manager
-
-- 💼 My business: Co-Founder at [Jumpbox](https://jumpbox.co/) -
-	The 1st Cloud Native academy and technical consultancy company
-
-<p align="center">
-<img src="assets/img/jumpbox_logo.png" width="200" hight="100">
-</p>
-
 - 🌱 I’m currently learning 
 
 ....
 
 - ⚡ Fun fact: ...
-- 🎓 Studied at [KMUTT](https://www.kmutt.ac.th/) in Electronics & Telecommunication Engineering, class 𝚘𝚏 2007
-- 🌐 You can access all my portfolios and open-source projects on Github and the [PS Website](https://ps9799.wordpress.com/)
+
+<p align="center">
+<img src="assets/img/jumpbox_logo.png" width="200" hight="100">
+</p>
+
+💼 My business: [Jumpbox](https://jumpbox.co/)
+
+- The 1st Cloud Native academy and technical consultancy company
+- This's our 1st Cloud Native Bootcamp in Thailand [The Cloud Camp by Jumpbox Academy](https://jumpbox.academy/)
+
+
+🎓 My graduation at [KMUTT](https://www.kmutt.ac.th/) in Electronics & Telecommunication Engineering, class 𝚘𝚏 2007
+
+🌐 You can access all my portfolios and open-source projects on Github and the [PS Website](https://ps9799.wordpress.com/)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -58,11 +62,8 @@ Here are some ideas to get you started:
 <!-- BLOG:END -->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 
-𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-[<img src="https://raw.githubusercontent.com/beaubaby/beaubaby/master/socials/linkedin.png" height="40em" align="center" alt="Follow beaubaby on LinkedIn" title="Follow beaubaby on LinkedIn"/>]([https://linkedin.com/in/phisinee-sagulvanitchaporn](https://www.linkedin.com/in/phisinee-sagulvanitchaporn))
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Beaubaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaubaby&show_icons=true&theme=radical)
