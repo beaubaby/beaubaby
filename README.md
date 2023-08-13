@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 - Medium: https://darkbabybeau.medium.com/
 - Dev.to: https://dev.to/beaubaby
 
+
 <p align="center">
 <img src="assets/img/jumpbox_logo.png" width="200" hight="100">
 </p>
 
-💼 My business: [Jumpbox](https://jumpbox.co/)
+### 💼 My business: [Jumpbox](https://jumpbox.co/)
 
 - The 1st Cloud Native academy and technical consultancy company.
 - This's our 1st Cloud Native Bootcamp in Thailand [The Cloud Camp by Jumpbox Academy](https://jumpbox.academy/).
