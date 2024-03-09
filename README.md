@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 - The 1st Cloud Native academy and technical consultancy company.
 - This's our 1st Cloud Native Bootcamp in Thailand [The Cloud Camp by Jumpbox Academy](https://jumpbox.academy/).
 
+#### Hosted & Admin 
+- [Cloud Native Bangkok User group Thailand](https://www.facebook.com/groups/241737627118333).
+- [Jumpbox Page](https://www.facebook.com/jumpbox.academy).
+
 ### 💕 My Lifestyles
 
 ☮✝ I'm traveller ☪⚛ 
